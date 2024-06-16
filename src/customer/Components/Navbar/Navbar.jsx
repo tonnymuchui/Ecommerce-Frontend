@@ -16,13 +16,9 @@ function Navbar() {
           <div className="flex justify-between items-center">
             {/* Logo */}
             <Link to="/" className="flex items-center py-6">
-              <img
-                src="https://res.cloudinary.com/ddkso1wxi/image/upload/v1675919455/Logo/Copy_of_Zosh_Academy_nblljp.png"
-                alt="Shopwithzosh"
-                className="h-8 w-8 mr-2"
-              />
+            <h1 className="h-8 w-8 mr-2">SHop</h1>
               <span className="font-bold text-white text-lg">
-                Shop With Zosh
+                Shop
               </span>
             </Link>
 
