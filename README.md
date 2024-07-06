@@ -45,7 +45,7 @@ Full Stack Ecommerce Website built with the latest technologies, including Sprin
 
 ## Demo
 
-[Shopping](/)
+[Shopping](/https://react-ecommerce-livid-six.vercel.app/)
 
 ## Technologies Used
 
